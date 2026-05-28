@@ -19,10 +19,8 @@ Unified autonomous driving requires a shared bird's-eye-view (BEV) and three-dim
 
 | Method | Modality | NDS ↑ | mAP ↑ | mIoU ↑ | RayIoU ↑ | Planning L2 ↓ |
 |---|---|---|---|---|---|---|
-| MambaFusion | LC | **75.0** | **72.7** | - | - | - |
-| UniLION | LCT | 75.0 | 72.6 | 71.8 | 50.5 | 0.69 |
 | Ours (LC) | LC | 74.2 | 71.9 | 70.4 | 50.3 | 0.65 |
-| Ours (LCT) | LCT | 74.8 | 72.4 | **72.4** | **51.7** | **0.62** |
+| Ours (LCT) | LCT | 74.8 | 72.4 | 72.4 | 51.7 | 0.62 |
 ---
 <p align="center">
   <img src="figures/detail.png" width="1000">
