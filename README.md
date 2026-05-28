@@ -23,10 +23,9 @@ Unified autonomous driving requires a shared bird's-eye-view (BEV) and three-dim
 | LCT | 74.8 | 72.4 | 72.4 | 51.7 | 0.62 |
 
 ---
-<p align="center">
-  <img src="figures/detail.png" width="1000">
-</p>
----
+
 ## 📌 News 
 - [2026/05/28] Initial release of code and models.
+
+
 ---
