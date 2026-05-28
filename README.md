@@ -14,3 +14,6 @@ Unified autonomous driving requires a shared bird's-eye-view (BEV) and three-dim
 <p align="center">
   <img src="figures/overview.png" width="1000">
 </p>
+<p align="center">
+  <img src="figures/detail.png" width="1000">
+</p>
